@@ -17,7 +17,8 @@
     "react-dom": "^18.0.0",
     "react-scroll": "^1.8.9",
     "sass": "1.49.11",
-    "swiper": "^9.0.2"
+    "swiper": "^9.0.2",
+    "xxxx": "^3.0.4"
   },
   "devDependencies": {
     "prettier": "2.5.1"
